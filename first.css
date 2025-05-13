@@ -1,0 +1,83 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+.main{
+    text-align: center;
+    background:rgb(0, 128, 255);
+    color:white;
+    height: 50px;
+    
+}
+.head{
+    margin:20px;
+    padding:10px;
+}
+.second{
+    background:white ;
+    box-shadow:  3px 2px 8px rgba(0,0,0,0.3);
+    padding:40;
+}
+.min{
+    padding-bottom: 20px;
+    color:rgb(127, 180, 250);
+}
+.min1{
+    color:rgb(127, 180, 250);
+    padding-top:20px ;
+    padding-bottom:20px
+}
+.second1{
+     background:white ;
+    box-shadow:  3px 2px 8px rgba(0,0,0,0.3);
+    padding:40px;
+}
+.second2{
+         background:white ;
+    box-shadow:  3px 2px 8px rgba(0,0,0,0.3);
+    padding:50px;
+}
+.head1{
+     color:rgb(127, 180, 250);
+    padding-top:10px ;
+    padding-bottom:20px;
+}
+.img1{
+    width:310px;
+    border-radius:2px;
+    
+
+}
+.second3{
+             background:white ;
+    box-shadow:  3px 2px 8px rgba(0,0,0,0.3);
+    padding:50px;
+}
+.a{
+    text-decoration: none;
+    color:rgb(68, 90, 135);
+}
+.a:hover{
+    color:rgb(22, 35, 213);
+}
+.btn{
+    background-color: rgb(127, 180, 250);
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    color:white;
+}
+.second4{
+    background:white ;
+    box-shadow:  3px 2px 8px rgba(0,0,0,0.3);
+    padding:50px;
+    text-align:center;
+    padding:50px;
+}
+.btn:hover{
+   background-color: rgb(2, 62, 132);
+}
+
+
+
